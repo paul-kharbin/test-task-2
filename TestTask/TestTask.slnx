@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TestTask.App/TestTask.App.csproj" Id="a005bdf6-9891-4659-b044-88a749c8db42" />
+  <Project Path="TestTask.Infrasturcture/TestTask.Infrasturcture.csproj" />
+  <Project Path="TestTask.Model/TestTask.Model.csproj" />
+</Solution>
